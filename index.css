@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Gupter:wght@400;500;700&family=Inter:wght@100..900&family=Koh+Santepheap:wght@100;300;400;700;900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Parisienne&family=REM:ital,wght@0,100..900;1,100..900&family=Spirax&display=swap');
+*{
+    margin: 0px 10px;
+    font-family: "EB Garamond", serif;
+    font-style: normal;
+    background-color: rgb(210, 212, 206);
+}
+.top-header h1{
+    margin-top: 70px;
+    font-size: 40px;
+    font-weight: 500;
+    padding: 30px 0px;
+    text-align: center;
+    color: brown;
+    background-color: rgb(219, 154, 130);
+}
+.search{
+    font-size: 40px;
+    background-color: rgb(236, 170, 182);
+    font-weight: 700;
+}
+.search a{
+    background-color: rgb(236, 170, 182);
+    padding: 0px 220px;
+    
+}
+.div-section h1{
+    background-color: rgb(233, 158, 104);
+    color: white;
+}
+.div-section p{
+    background-color: white;
+    padding: 20px;
+    color: rgb(112, 13, 13);
+    font-size: 20px;
+}
+.sec-dection h1{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(230, 155, 65);
+    color: white;
+}
+ul{
+    background-color: rgb(146, 123, 94);
+    color: rgb(145, 10, 10);
+}
+li{
+    list-style-type: none;
+    background-color: rgb(146, 123, 94);
+    font-size: 30px;
+    text-align: center;
+}
